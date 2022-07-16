@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="rosemary/fluid/sources" name="Kasumi-Devices/android_device_redmi_rosemary.git" remote="github" revision="kasumi_v1" />
+ 
+</manifest>
